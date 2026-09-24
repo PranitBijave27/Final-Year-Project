@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "AlphaEye",
+    "slug": "alpha-eye",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
